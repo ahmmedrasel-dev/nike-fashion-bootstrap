@@ -1,0 +1,100 @@
+/*------------------------
+ Common Css Start
+ ------------------------ */
+
+* {
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #3e3e3e;
+}
+
+.nike-btn-primary {
+	background-image: linear-gradient(45deg, #3d4ff3, #3543bc);
+	color: #fff;
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.nike-btn-primary:hover {
+	background-image: linear-gradient(180deg, #3d4ff3, #3543bc);
+	color: #fff;
+}
+
+.nike-btn-primary i {
+	padding-right: 8px;
+}
+
+/*------------------------
+ Header Section
+------------------------ */
+.logo {
+	font-family: "Bebas Neue", cursive;
+	font-weight: 900;
+	font-size: 40px;
+	color: #3d4ff3 !important;
+}
+
+.logo span {
+	color: #fa804c;
+}
+
+.navbar-nav .nav-item {
+	margin-left: 30px;
+}
+
+.navbar-nav .nav-item a {
+	font-size: 22px;
+	font-weight: 500;
+}
+
+.bg-banner {
+	background-color: #fff9f4;
+}
+
+.banner-headding {
+	font-family: "Bebas Neue", cursive;
+	font-size: 80px;
+	color: #363958;
+}
+
+.banner-headding span {
+	color: #fa804c;
+}
+
+/*------------------------
+ Header Section
+------------------------ */
+
+.section-title {
+	font-family: "Bebas Neue", cursive;
+	font-size: 40px;
+	color: #363958;
+	padding-bottom: 30px;
+}
+
+.products {
+	border-radius: 20px;
+	border: none;
+}
+
+.thumbnail {
+	background-color: #f1f1f1;
+	border-radius: 20px;
+}
+
+.price {
+	font-size: 30px;
+	font-weight: 900;
+	color: #fa804c;
+}
+/*------------------------
+ Header Section
+------------------------ */
