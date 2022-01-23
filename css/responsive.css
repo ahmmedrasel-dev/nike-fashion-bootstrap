@@ -1,0 +1,81 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.navbar-nav .nav-item {
+		margin-left: 20px;
+	}
+	.navbar-nav .nav-item a {
+		font-size: 18px;
+	}
+
+	.banner-headding {
+		font-size: 60px;
+	}
+
+	.photo {
+		margin-bottom: 20px;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.navbar-nav .nav-item {
+		margin-left: 0;
+		border-bottom: 1px solid #ebebeb;
+	}
+
+	.banner-img {
+		display: flex;
+		justify-content: center;
+	}
+
+	.banner-content {
+		text-align: center;
+		margin-top: 40px;
+	}
+
+	.banner-headding {
+		font-size: 50px;
+	}
+
+	.section-title {
+		text-align: center;
+	}
+
+	.photo {
+		margin-bottom: 20px;
+	}
+
+	.banner-photo {
+		margin-bottom: 20px;
+	}
+}
+
+@media (max-width: 575.98px) {
+	.navbar-nav .nav-item {
+		margin-left: 0;
+		border-bottom: 1px solid #ebebeb;
+	}
+
+	.banner-content {
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	.banner-headding {
+		font-size: 40px;
+	}
+	.banner-content p {
+		font-size: 14px;
+		padding: 0 40px;
+	}
+
+	.section-title {
+		text-align: center;
+	}
+
+	.photo {
+		margin-bottom: 20px;
+	}
+
+	.banner-photo {
+		margin-bottom: 20px;
+	}
+}
